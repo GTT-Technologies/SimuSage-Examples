@@ -1,0 +1,10 @@
+*.txp
+*.txt
+*.exe
+*.dll
+*.bak
+*.lps
+*.ssd
+*.dat
+*/backup
+*/lib
